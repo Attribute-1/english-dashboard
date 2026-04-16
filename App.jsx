@@ -324,7 +324,7 @@ const App = () => {
                     </div>
                     <div className="flex items-center gap-2 text-indigo-600 relative z-10">
                       <Lightbulb size={18} />
-                      <p className="font-bold text-sm uppercase tracking-wide">Совет от учителя:</p>
+                      <p className="font-bold text-sm uppercase tracking-wide">Совет от учителя Майи:</p>
                     </div>
                     <p className="text-sm text-indigo-900 leading-relaxed italic relative z-10">{selectedSkill.tip}</p>
                   </div>
